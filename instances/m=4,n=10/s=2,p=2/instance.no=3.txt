@@ -1,0 +1,20 @@
+m:	4
+n:	10
+
+machine size
+4
+6
+8
+10
+
+id	width	processing time
+1	5	1
+2	3	17
+3	6	12
+4	4	9
+5	7	3
+6	5	4
+7	8	1
+8	8	11
+9	5	2
+10	6	20
